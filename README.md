@@ -1,4 +1,8 @@
-# Sistema de Gestión de Pedidos
+# Sistema de Gestión de Pedidos - Ferretería El Constructor
+
+## Descripción
+
+Aplicación web para gestionar clientes, productos y pedidos de la Ferretería El Constructor, permitiendo organizar y consultar la información de manera sencilla.
 
 ## Integrantes
 
@@ -8,22 +12,28 @@
 - Mallqui Meza Roger Ivan — U22307276
 - Pedro David Huayanay Cardenas — U22317743
 
-## Descripción
+## Módulos del sistema
 
-Aplicación web para gestionar clientes, productos y pedidos de una pequeña empresa.
+- Clientes: registrar y listar clientes.
+- Productos: registrar y listar productos.
+- Pedidos: registrar y consultar pedidos.
+- Usuarios: gestionar usuarios del sistema.
+- Reportes: generar reportes básicos.
 
-## Módulos principales
+## Tecnologías
 
-- Clientes
-- Productos
-- Pedidos
-- Usuarios
-- Reportes
-
-## Tecnologías utilizadas
-
-- Frontend: Angular
+- Frontend: HTML, CSS, JavaScript y Bootstrap
 - Backend: Spring Boot
 - Persistencia: JPA
 - Base de datos: MySQL
 - Control de versiones: Git y GitHub
+
+## Estrategia de ramas
+
+main
+└── develop
+    ├── feature/clientes
+    ├── feature/productos
+    ├── feature/pedidos
+    ├── feature/usuarios
+    └── feature/reportes
