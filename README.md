@@ -37,3 +37,13 @@ main
     ├── feature/pedidos
     ├── feature/usuarios
     └── feature/reportes
+
+## Ramas que corresponden a cada integrante
+
+| Rama | Integrante |
+|---|---|
+| feature/clientes | Christian Jhoel Montalvo Solorzano |
+| feature/productos | Pedro David Huayanay Cardenas |
+| feature/pedidos | Mallqui Meza Roger Ivan |
+| feature/usuarios | Christian Jhoel Montalvo Solorzano |
+| feature/reportes | Farid Gary Lozano Santillan |
