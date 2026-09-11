@@ -45,5 +45,5 @@ main
 | feature/clientes | Christian Jhoel Montalvo Solorzano |
 | feature/productos | Pedro David Huayanay Cardenas |
 | feature/pedidos | Mallqui Meza Roger Ivan |
-| feature/usuarios | Christian Jhoel Montalvo Solorzano |
+| feature/usuarios | Espinoza Vásquez Carlos Andrés |
 | feature/reportes | Farid Gary Lozano Santillan |
